@@ -4,7 +4,7 @@
 #
 Name     : mvn-jcip-annotations
 Version  : 1.0.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/stephenc/jcip-annotations/archive/jcip-annotations-1.0-1.tar.gz
 Source0  : https://github.com/stephenc/jcip-annotations/archive/jcip-annotations-1.0-1.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar
